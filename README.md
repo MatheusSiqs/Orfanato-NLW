@@ -1,2 +1,2 @@
 # Orfanato-NLW
-Projeto desenvolvido no evento Rextlevel realizado pela Rocketseat
+Projeto desenvolvido no evento Nextlevel realizado pela Rocketseat
